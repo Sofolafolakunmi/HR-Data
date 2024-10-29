@@ -54,7 +54,7 @@ Power BI: Used for both data cleaning and visualization
 
 #### Methodology (Data Cleaning and Preparation)
 
-### Data Cleaning
+## Data Cleaning
 The data cleaning process was performed in Power BI, following these steps:
 
 ## Column Renaming
