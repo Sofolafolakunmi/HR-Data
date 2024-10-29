@@ -57,7 +57,9 @@ Power BI: Used for both data cleaning and visualization
 ### Data Cleaning
 The data cleaning process was performed in Power BI, following these steps:
 
-## Column Renaming: Renamed columns for improved clarity and consistency.
+## Column Renaming
+Renamed columns for improved clarity and consistency.
+
 ## New Column Creation:
 i.  Used a conditional column to classify age brackets (Age_Band).
 
@@ -73,10 +75,15 @@ ii.  Visualization: Developed maps, cards, and charts to identify trends, patter
 iii. Dashboard Creation: Built an interactive dashboard to effectively present key findings.
 
 #### Statistic Analysis 
+
 The total number of employees is 1470 
+
 Total number of attritions is 237 
+
 Total number of current employees is 1233 
+
 Average age is 37 
+
 Attrition rate is 16%  
  
  #### Result
@@ -84,7 +91,7 @@ Attrition rate is 16%
 i.   Attrition appears to vary significantly by department:
 ii.  The R&D department has the highest attrition with 961 employees leaving.
 iii. Sales follows with 446 employees leaving.
-	The HR department has the lowest attrition at 63 employees.
+iv. The HR department has the lowest attrition at 63 employees.
 - Attrition by Education Field:
 i.  The Life Sciences field has the highest attrition count, followed by Medical and Marketing.
 ii. Fields like Technical Degree and other specialties show relatively lower attrition.
