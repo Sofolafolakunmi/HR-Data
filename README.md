@@ -1,11 +1,11 @@
-##### HR-Data
+## HR-Data
 
-#### PROJECT OVERVIEW
+## PROJECT OVERVIEW
 This analysis investigates the drivers of employee attrition in an organization using a dataset comprising demographic information, job-related attributes, and satisfaction measures. Key objectives include identifying trends and patterns associated with attrition, understanding the role of job satisfaction, compensation, and career progression in influencing employee decisions to leave, and developing a predictive model to forecast attrition. The findings of this analysis will support data-driven decisions for employee retention, ultimately helping the organization reduce turnover costs and build a more committed workforce. We can also gain insights into the dynamics that lead to employee attrition, which will help the organization improve retention strategies and enhance employee engagement.
 
 Employee attrition is a significant concern for organizations as it leads to high costs associated with recruitment, training, and loss of productivity. Understanding the factors that contribute to employee turnover is essential for developing effective retention strategies. This study aims to identify key predictors of attrition within an organization by analyzing demographic, job-related, and satisfaction metrics.
 
-#### Columns Explanation
+### Columns Explanation
 -	Attrition: Indicates whether an employee has left the company (often represented as "Yes" or "No").
 -	Business Travel: Frequency of business travel for the employee (e.g., "Rarely," "Frequently," "No Travel").
 -	CF_age band: Age group category of the employee, often used to group ages into ranges (e.g., "25-34," "35-44").
@@ -45,27 +45,27 @@ Employee attrition is a significant concern for organizations as it leads to hig
 -	Years Since Last Promotion: Number of years since the employee’s last promotion.
 -	Years With Current Manager: Number of years the employee has worked with their current manager.
   
-#### Data Source
+## Data Source
 The main data sources for this analysis is from the HR of an organization. It’s also “HR.Data.csv” file. 
 
-#### Tools Used
+## Tools Used
 Power BI: Used for both data cleaning and visualization
 
 
-#### Methodology (Data Cleaning and Preparation)
+## Methodology (Data Cleaning and Preparation)
 
-## Data Cleaning
+#### Data Cleaning
 The data cleaning process was performed in Power BI, following these steps:
 
-## Column Renaming
+#### Column Renaming
 Renamed columns for improved clarity and consistency.
 
-## New Column Creation:
+#### New Column Creation:
 i.  Used a conditional column to classify age brackets (Age_Band).
 
 ii. Created a rating for job satisfaction.
 
-#### Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 The data was imported from Excel into Power BI, and the following steps were conducted:
 
 i.   Descriptive Statistics: Calculated attrition rate and average age.
@@ -74,7 +74,7 @@ ii.  Visualization: Developed maps, cards, and charts to identify trends, patter
 
 iii. Dashboard Creation: Built an interactive dashboard to effectively present key findings.
 
-#### Statistic Analysis 
+## Statistic Analysis 
 
 The total number of employees is 1470 
 
@@ -86,7 +86,7 @@ Average age is 37
 
 Attrition rate is 16%  
  
- #### Result
+ ## Result
 - Attrition by Department:
 
 i.   Attrition appears to vary significantly by department:
@@ -115,7 +115,7 @@ ii. 122 employees in 25-34 age band and gender has the highest attrition
 
 iii. Suggesting different age bands have distinct attrition patterns when combined 
 
-#### Recommendations 
+## Recommendations 
 - Focus on Retention in High-Attrition Departments:
 
 i. Since the R&D and Sales departments have the highest attrition rates, it may be beneficial to conduct exit interviews or surveys to understand the specific reasons why employees in these departments are leaving.
