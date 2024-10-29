@@ -1,4 +1,6 @@
 ## HR-Data
+[PROJECT OVERVIEW](#PROJECT OVERVIEW)
+Columns Explanation
 
 ## PROJECT OVERVIEW
 This analysis investigates the drivers of employee attrition in an organization using a dataset comprising demographic information, job-related attributes, and satisfaction measures. Key objectives include identifying trends and patterns associated with attrition, understanding the role of job satisfaction, compensation, and career progression in influencing employee decisions to leave, and developing a predictive model to forecast attrition. The findings of this analysis will support data-driven decisions for employee retention, ultimately helping the organization reduce turnover costs and build a more committed workforce. We can also gain insights into the dynamics that lead to employee attrition, which will help the organization improve retention strategies and enhance employee engagement.
