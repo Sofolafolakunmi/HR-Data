@@ -76,15 +76,15 @@ iii. Dashboard Creation: Built an interactive dashboard to effectively present k
 
 ## Statistic Analysis 
 
-The total number of employees is 1470 
+- The total number of employees is 1470 
 
-Total number of attritions is 237 
+- Total number of attritions is 237 
 
-Total number of current employees is 1233 
+- Total number of current employees is 1233 
 
-Average age is 37 
+- Average age is 37 
 
-Attrition rate is 16%  
+- Attrition rate is 16%  
  
  ## Result
 - Attrition by Department:
