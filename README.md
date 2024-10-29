@@ -23,7 +23,7 @@ Employee attrition is a significant concern for organizations as it leads to hig
 -	CF_current Employee: Likely a custom field indicating whether the employee is currently employed (often "Yes" or "No").
 -	Daily Rate: Daily wage of the employee (could be in dollars or any other currency).
 -	Distance From Home: Distance between the employee’s home and workplace
--	Education: Education level of the employee, often represented as a number (e.g., 1 = Below College, 2 = College, 3 = Bachelor, 4 = Master, 5 = Doctorate).
+-	Education: Education level of the employee, often represented as a number
 -	Employee Count: Typically the count of employees per row;
 -	Environment Satisfaction: Employee’s satisfaction with the work environment 
 -	Hourly Rate: Employee’s hourly wage.
