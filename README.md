@@ -1,14 +1,26 @@
 ## HR-Data
 [PROJECT OVERVIEW](#project-overview)
+
 [Columns Explanation](#columns-explanation)
+
 [Data Source](#data-source)
+
 [Tools Used](#tools-used)
+
 [Data Cleaning](#data-cleaning)
+
 [Column Renaming](#column-renaming)
+
 [New Column Creation](#new-column-creation)
+
 [Exploratory Data Analysis](#exploratory-data-analysis)  
+
 [Statistic Analysis](#statistic-analysis)  
+
+[Visualization](#visualization)
+
 [Result](#result)
+
 [Recommendations](#recommendations)  
 
 ## PROJECT OVERVIEW
@@ -95,8 +107,12 @@ iii. Dashboard Creation: Built an interactive dashboard to effectively present k
 
 - Average age is 37 
 
-- Attrition rate is 16%  
- 
+- Attrition rate is 16%
+
+## Visualization
+
+![incubator](https://github.com/user-attachments/assets/b80660f2-88d3-4734-bde9-8bebb18616b7)
+
  ## Result
 - Attrition by Department:
 
