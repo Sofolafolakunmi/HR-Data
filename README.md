@@ -1,6 +1,15 @@
 ## HR-Data
-[PROJECT OVERVIEW](#PROJECT OVERVIEW)
-Columns Explanation
+[PROJECT OVERVIEW](#project-overview)
+[Columns Explanation](#columns-explanation)
+[Data Source](#data-source)
+[Tools Used](#tools-used)
+[Data Cleaning](#data-cleaning)
+[Column Renaming](#column-renaming)
+[New Column Creation](#new-column-creation)
+[Exploratory Data Analysis](#exploratory-data-analysis)  
+[Statistic Analysis](#statistic-analysis)  
+[Result](#result)
+[Recommendations](#recommendations)  
 
 ## PROJECT OVERVIEW
 This analysis investigates the drivers of employee attrition in an organization using a dataset comprising demographic information, job-related attributes, and satisfaction measures. Key objectives include identifying trends and patterns associated with attrition, understanding the role of job satisfaction, compensation, and career progression in influencing employee decisions to leave, and developing a predictive model to forecast attrition. The findings of this analysis will support data-driven decisions for employee retention, ultimately helping the organization reduce turnover costs and build a more committed workforce. We can also gain insights into the dynamics that lead to employee attrition, which will help the organization improve retention strategies and enhance employee engagement.
@@ -62,12 +71,12 @@ The data cleaning process was performed in Power BI, following these steps:
 #### Column Renaming
 Renamed columns for improved clarity and consistency.
 
-#### New Column Creation:
+#### New Column Creation
 i.  Used a conditional column to classify age brackets (Age_Band).
 
 ii. Created a rating for job satisfaction.
 
-## Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis 
 The data was imported from Excel into Power BI, and the following steps were conducted:
 
 i.   Descriptive Statistics: Calculated attrition rate and average age.
