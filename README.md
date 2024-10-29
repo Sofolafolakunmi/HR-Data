@@ -88,34 +88,61 @@ Attrition rate is 16%
  
  #### Result
 - Attrition by Department:
+
 i.   Attrition appears to vary significantly by department:
+
 ii.  The R&D department has the highest attrition with 961 employees leaving.
+
 iii. Sales follows with 446 employees leaving.
+
 iv. The HR department has the lowest attrition at 63 employees.
+
 - Attrition by Education Field:
+
 i.  The Life Sciences field has the highest attrition count, followed by Medical and Marketing.
+
 ii. Fields like Technical Degree and other specialties show relatively lower attrition.
+
 - Attrition by Gender:
+
 i.A majority of the attrition (63.29%) is from male employees (150), while females account for 36.71% (87) of attrition cases.
+
 - Attrition by Gender and Age Band:
+
 i. The age and gender breakdown shows:
+
 ii. 122 employees in 25-34 age band and gender has the highest attrition 
+
 iii. Suggesting different age bands have distinct attrition patterns when combined 
 
 #### Recommendations 
 - Focus on Retention in High-Attrition Departments:
+
 i. Since the R&D and Sales departments have the highest attrition rates, it may be beneficial to conduct exit interviews or surveys to understand the specific reasons why employees in these departments are leaving.
+
 ii. Based on these insights, consider implementing targeted retention strategies, such as career development programs, performance incentives, or work-life balance initiatives, to reduce turnover in these departments.
+
 - Enhance Support for Life Sciences and Medical Education Fields:
+
 i. Given that employees with backgrounds in Life Sciences and Medical fields show higher attrition, consider establishing specialized career growth paths, training programs, or mentorship opportunities to increase engagement and job satisfaction within these groups.
+
 ii. Understanding the skill development needs and career goals of these employees could help improve retention in these fields.
+
 - Address Gender-Specific Retention Challenges:
+
 i. Since attrition is higher among male employees, investigate potential reasons for this trend, such as job satisfaction, work environment, or career advancement concerns that may disproportionately affect men.
+
 ii. Ensure that both male and female employees feel equally supported and valued by providing flexible policies, growth opportunities, and a healthy work-life balance.
+
 - Targeted Retention Efforts for Specific Age Bands:
+
 i. With higher attrition rates in certain age and gender combinations, consider tailoring retention efforts for different age groups. Younger employees may value opportunities for skill-building and career advancement, while older employees may prioritize job security and work-life balance.
+
 ii. Tailored retention initiatives based on age demographics could help in addressing the unique needs of each group and reduce attrition.
+
 - Develop an Inclusive and Supportive Workplace Culture:
+
 i. Since attrition can often be influenced by workplace culture, consider fostering a supportive and inclusive environment through regular employee engagement activities, team-building exercises, and transparent communication.
+
 ii. Providing a positive workplace culture can significantly impact overall employee satisfaction and may lead to lower attrition rates
 
